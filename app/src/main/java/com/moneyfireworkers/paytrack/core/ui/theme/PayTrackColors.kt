@@ -1,0 +1,30 @@
+package com.moneyfireworkers.paytrack.core.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val MoneyPrimary = Color(0xFF78A87C)
+val MoneyPrimaryDeep = Color(0xFF52755A)
+val MoneyPrimarySoft = Color(0xFFE6F1E4)
+val MoneyAccent = Color(0xFF5F6C4D)
+val MoneyAccentSoft = Color(0xFFF5E9DB)
+val MoneyBackground = Color(0xFFF8F2EA)
+val MoneyBackgroundWarm = Color(0xFFFDF8F2)
+val MoneySurface = Color(0xFFFFFCF8)
+val MoneySurfaceSoft = Color(0xFFF6EFE5)
+val MoneySurfaceRaised = Color(0xFFFFF8F0)
+val MoneyTextPrimary = Color(0xFF2E342A)
+val MoneyTextSecondary = Color(0xFF767C72)
+val MoneyDivider = Color(0xFFE7DED1)
+val MoneyPendingTint = Color(0xFFF8F0E4)
+val MoneyPendingBorder = Color(0xFFE7D8BF)
+val MoneyGlow = Color(0xFFF2E4CB)
+val MoneyMint = Color(0xFFDCEED8)
+val MoneyPeach = Color(0xFFF3CEBE)
+val MoneySky = Color(0xFFD5E7EA)
+val MoneyButter = Color(0xFFF3E4B8)
+val MoneyBerry = Color(0xFFD59A8D)
+
+val EmotionHappy = Color(0xFF70A96D)
+val EmotionNeutral = Color(0xFF6F8C91)
+val EmotionRegretful = Color(0xFFE0A45E)
+val EmotionImpulsive = Color(0xFFD97362)

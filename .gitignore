@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+device_captures/
+demo(MoneyFireworkers)/
+*.iml
+*.log
+captures/
+.DS_Store
+Thumbs.db
